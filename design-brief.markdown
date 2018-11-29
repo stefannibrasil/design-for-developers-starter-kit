@@ -1,13 +1,18 @@
-# [ProjectName] Design Brief
+# My Cat Timer Design Brief
 
 ## A brief summary of the business / site goals.
-*What problems are you trying to solve? What is the purpose of the app? (2-3 sentences)*
+
+It's a personal project for me to practice HTML, CSS and Javascript. I want to build a Pomodoro timer
+but focusing on creating a Cat theme for the app.
 
 ## The key users.
-*Describe behaviors, expectation, knowledge, or other characteristics. (One sentence each)*
+People that use the Pomodoro Tecnhique to finish their daily tasks.
 
 ## Scenarios in which your app or site will be used.
-*These should be short narratives of the above users with your app / site. (One sentence each)*
+
+Access the app from a desktop or mobile device, set a timer to focus (25min), to take a small break (5min) and to take a long break (15min).
 
 ## Design style guidelines to follow.
-*These are a list of qualities or characteristics (usually adjectives) you'd like the design to follow. The more specific you are with these the easier it will be for you to create a compelling design (e.g. don't use "Clean"). (2-3 words)*
+Easy to use
+Simple
+Helpful for people to accomplish their goals
